@@ -39,4 +39,5 @@ Follow these instructions to effectively utilize the tool:
    - Once the search is complete, the tool will present you with a list of titles.
    - Explore the results and select the desired titles for further action with index number.
 
----
+## Authors
+- [@Ghost6446](https://www.github.com/Ghost6446)
