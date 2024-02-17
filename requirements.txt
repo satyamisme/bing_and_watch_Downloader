@@ -1,0 +1,9 @@
+requests
+bs4 
+lxml
+tqdm
+rich
+random-user-agent
+ffmpeg-python
+cryptography==3.4.8 # Problem with new version
+m3u8
